@@ -7,8 +7,6 @@
  - 宋大叔教音乐第二单元讲义合集，从[赞美诗网第二单元旧版](https://www.zanmeishige.com/course/songdashu-unit2.html)下载，可以点击此[第二单元进阶版](https://www.zanmeishige.com/course/12.html)观看视频。
  - 宋大叔教音乐第三单元讲义合集，从[赞美诗网宋大叔教音乐第三单元视频教程主页](https://www.zanmeishige.com/course/songdashu-unit3plus.html)下载。
  - 中国音阶之调性与和声，由[Z-library](https://zh.b-ok.asia/s/?q=%E5%AE%8B%E5%A4%A7%E5%8F%94)下载。
- 
- 
 
 ## 蓝调小生教程合集
 蓝调小生现在以盈利为主，因此他们的公众号上找不到以前的免费教学资源入口了。但是他们承诺以前发布的课程会永久有效，因此我将他们的免费课程合集整理如下：
@@ -21,5 +19,12 @@
   - [更新 | 好听的赞美诗30首 | 蓝调小生钢琴演奏版](https://mp.weixin.qq.com/s/BVe2Gt5Qgb9SjQnie1xTmw)，适合欣赏与学习。
   - [【示范曲】蓝调小生演奏的示范曲合集（持续更新）](https://mp.weixin.qq.com/s/kjQSBSiunQi6i2K2_zOx7w)，适合欣赏与学习。
  
- ## 和弦编配讲稿
+## 和弦编配讲稿
   - 一本几年前写的讲义，可以用作和弦编配入门。
+
+## 福音对联写作与集成
+2022年12月写的书，虽然和音乐关系不大，但放在这里比较方便。其主要内容如下：
+  - 三位先生的对联汇总
+  - 好对联的评价标准
+  - 对联的修改与润色
+  - 对联的主题式创作
